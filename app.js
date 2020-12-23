@@ -1,9 +1,4 @@
 var btn1=document.querySelector("#btn-translate");
-var textArea=document.querySelector("#tarea1");
+var inputAea=document.querySelector("#tarea1");
+var outputArea=document.querySelector("#tarea2")
 
-function click1(){
-    console.log("You clicked!!")
-    console.log("Your text is",textArea.value);
-}
-
-btn1.addEventListener("click", click1);

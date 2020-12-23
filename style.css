@@ -33,9 +33,17 @@ body{
 
 .input-section{
     padding-left: 6.5rem;
+    
 }
 
 .output-section{
     padding-left: 6.5rem;
     padding-top: 0rem;
+}
+
+.bottom-nav{
+    background-color: rgba(233, 233, 56, 0.938);
+    padding: 1rem;
+    border-radius: 2.5rem;
+    word-spacing: 0.9rem;
 }
