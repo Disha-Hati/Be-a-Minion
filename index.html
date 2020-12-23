@@ -4,8 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Minion Talk</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
+    <nav class="top-nav">
+        <header class="nav-head">Be A Minion!</header>
+    </nav>
+    <img class="min-img" src="/minion.jpg" alt=""></img>
+    <div class="input-section">
+        <h3>Enter Your Text Here:</h3>
+    <textarea placeholder="Enter your Sentence in English" id="tarea1" cols="55" rows="13"></textarea>
+    </div>
+    <button class="btn-translate" id="btn-translate">Translate</button>
+
+    <div class="output-section">
+        <h3>Minion Says:</h3>
+        <textarea placeholder="Minion will translate for you here" id="tarea2" cols="55" rows="13"></textarea>
+    </div>
+    <script src="app.js" type="text/javascript"></script>
 </body>
 </html>

@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+body{
+    font-family: 'Permanent Marker', cursive;
+}
+
+.top-nav{
+    background-color: rgba(233, 233, 56, 0.938);
+    padding: 2rem;
+    border-radius: 2.5rem;
+}
+
+.nav-head{
+    padding: 0.2rem;
+    font-size: 2.1rem;
+    word-spacing: 1rem;
+}
+
+.btn-translate{
+    border-radius: 2rem;
+    background-color: rgba(248, 248, 80, 0.938);
+    padding: 0.5rem;
+    font-weight: bolder;
+    margin-left: 6.5rem;
+    margin-top: 1rem;
+}
+
+.min-img{
+    float: right;
+    padding-right: 3rem;
+    padding-top: 2rem;
+}
+
+.input-section{
+    padding-left: 6.5rem;
+}
+
+.output-section{
+    padding-left: 6.5rem;
+    padding-top: 0rem;
+}
