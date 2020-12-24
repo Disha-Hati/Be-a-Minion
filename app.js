@@ -3,7 +3,7 @@ var txtInput = document.querySelector("#tarea1");
 var outputDiv = document.querySelector("#tarea2");
 
 
-var serverURL = "https://api.funtranslations.com/translate/shakespeare.json"   //api url
+var serverURL = "https://api.funtranslations.com/translate/minion.json"   //api url
 
 
 function getTranslationURL(input) {
