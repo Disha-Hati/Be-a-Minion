@@ -1,3 +1,5 @@
+//Assignment 3 for Level Zero
+
 var btnTranslate = document.querySelector("#btn-translate");
 var txtInput = document.querySelector("#tarea1");
 var outputDiv = document.querySelector("#tarea2");
